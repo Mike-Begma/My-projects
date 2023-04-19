@@ -32,7 +32,7 @@
 <p>Как решала(-а): краткое описание решения (автореферат)<p>
 
 
-> <https://docs.google.com/spreadsheets/d/1miHOj_iiYhlmH03-7iim4G1ecHAbomy9NEnHpITGezA/edit#gid=0>Ссылка на проект</a>
+> <a href="https://docs.google.com/spreadsheets/d/1miHOj_iiYhlmH03-7iim4G1ecHAbomy9NEnHpITGezA/edit#gid=0">Ссылка на проект</a>
   
 
 <p>Выводы (итоги):<p>
