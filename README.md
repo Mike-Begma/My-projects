@@ -86,7 +86,7 @@
 
 <
   
-> <a href="https://docs.google.com/document/d/1In2I82woYEPFY4_w4o30GvQmRSQCVjyP2-6bwBH970s/edit">Ссылка на проект</a>
+> <a href="https://github.com/Mike-Begma/My-projects/blob/main/Project%203/Юнит-экономика%20онлайн%20кинотеатра.xlsx">Ссылка на проект</a>
 
 
   
