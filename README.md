@@ -32,8 +32,8 @@
 <p>Как решала(-а): краткое описание решения (автореферат)<p>
 
 
-> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%20№1.xlsx">Ссылка на проект</a>
-  (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
+> <https://docs.google.com/spreadsheets/d/1miHOj_iiYhlmH03-7iim4G1ecHAbomy9NEnHpITGezA/edit#gid=0>Ссылка на проект</a>
+  
 
 <p>Выводы (итоги):<p>
 <ol>
