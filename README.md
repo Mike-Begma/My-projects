@@ -97,4 +97,4 @@
 
 
 ## Контактная информация
-- Email: name@email.com
+- Email: begmikhail@yandex.ru
