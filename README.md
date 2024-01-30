@@ -37,11 +37,11 @@
 
 </ol>
 
-<a href="https://docs.google.com/spreadsheets/d/1rZvSUTIC0UlM5n85mWeZraLr4LeAnI6r/edit#gid=573461467">ABC_анализ</a>
+<a href="https://docs.google.com/spreadsheets/d/1rZvSUTIC0UlM5n85mWeZraLr4LeAnI6r/edit?usp=sharing&ouid=118004717770675251075&rtpof=true&sd=true">ABC_анализ</a>
 
 </ol>
 
-<a href="https://docs.google.com/spreadsheets/d/1qd-tvRr5w1CXxdohZMVqNh3KkAf-_OGy/edit#gid=1648892602">Скорректированная_матрица</a>  
+<a href="https://docs.google.com/spreadsheets/d/1qd-tvRr5w1CXxdohZMVqNh3KkAf-_OGy/edit?usp=sharing&ouid=118004717770675251075&rtpof=true&sd=true">Скорректированная_матрица</a>  
 
 
 <p> Проект 2: Калькулятор юнит-экономики онлайн-школы</p>
