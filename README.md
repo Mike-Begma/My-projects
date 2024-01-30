@@ -33,7 +33,7 @@
 </ol>
 
 
-> <a href="https://docs.google.com/spreadsheets/d/1XmBDtx9Npa_aomNdCQuaYQ0NOBsb6BL9/edit?usp=sharing&ouid=118004717770675251075&rtpof=true&sd=true">Оборачиваемость_дашборд</a>
+<a href="https://docs.google.com/spreadsheets/d/1XmBDtx9Npa_aomNdCQuaYQ0NOBsb6BL9/edit?usp=sharing&ouid=118004717770675251075&rtpof=true&sd=true">Оборачиваемость_дашборд</a>
 
 </ol>
 
