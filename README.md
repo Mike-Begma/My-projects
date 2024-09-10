@@ -11,6 +11,7 @@
 - Системы управления базами данных: ``MySQL``, ``PostgreSQL``
 - Языки и ООП: ``Python``
 - Библиотеки: ``Pandas``, ``Matplotlib``, ``Seaborn``
+- Работа с кодом: ``Google Colab``, ``Jupiter Notebook``
 
 
 
