@@ -101,7 +101,7 @@
   
 
 
-  > <a href="https://github.com/Mike-Begma/My-projects/tree/main/Project%204">Ссылка на ноутбук</a>
+  > <a href="https://colab.research.google.com/drive/1H4cqpciFXdOxd_ZplIERktsth4GzAf1d?usp=sharing">Ссылка на ноутбук</a>
 
   
 
